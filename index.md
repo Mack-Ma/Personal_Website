@@ -4,7 +4,7 @@ Hey, what's up! I'm Tianye Ma, currently a visiting scholar in Colorado State Un
 # My Posts
 
 ## Coke Chicken
-![Coke Chicken](https://github.com/Mack-Ma/Tianye/blob/master/Pic/CokeChicken.jpg)  
+![](https://github.com/Mack-Ma/Tianye/blob/master/Pic/CokeChicken.jpg)  
 Look at the chicken I cooked for Thanksgiving! I actually added some Coca Cola for flavor. :)  
   
 12/1/2019 5:18:22 PM  
