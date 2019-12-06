@@ -3,8 +3,8 @@ Hey, what's up! I'm Tianye Ma, currently a visiting scholar in Colorado State Un
 
 # My Posts
 
-## About Model Assessment
-Hey! Here's some of my understandings towards model assessment.  
+## About Adding Covariables
+Hey! Here's my understanding towards model assessment and adding covariables in a linear model.  
 
 How do we know that a model is better than another? A common view is that the better the model fits the data, the higher probability of choosing that model should be. While additionally, we may also concern how much the model fits the random error, that is to say, if there's an overfitting problem (like "model 2" in the pic below).   
 
