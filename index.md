@@ -1,7 +1,13 @@
 # About Me
-Hey, what's up! I'm Tianye Ma, currently a visiting scholar in Colorado State University. Although cognitive science is my principal area of interest, I actually have a broad interest in all kinds of new things. Please feel free to contact me by e-mail (mack_ma2018@outlook.com).  
+Hey, what's up! I'm Tianye Ma (Mack), currently a visiting scholar in Colorado State University. Although cognitive science is my principal area of interest, I actually have a broad interest in all kinds of new things. Please feel free to contact me by e-mail (mack_ma2018@outlook.com).  
 
 # My Posts
+
+## An Insane Paper
+
+This has to be one of the best papers I've ever read.  
+Everyone should read this!! :)  
+![](https://github.com/Mack-Ma/Tianye/raw/master/Pic/CF&BS_CoolPerception_BBS.jpg)  
 
 ## About Adding Covariables
 Hey! Here's my understanding towards model assessment and adding covariables in a linear model.  
