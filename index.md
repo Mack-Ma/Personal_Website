@@ -9,6 +9,8 @@ This has to be one of the best papers I've ever read.
 Everyone should read this!! :)  
 ![](https://github.com/Mack-Ma/Tianye/raw/master/Pic/CF&BS_CoolPerception_BBS.png)  
 
+2/2/2020 7:26:18 AM  
+
 ## About Adding Covariables
 Hey! Here's my understanding towards model assessment and adding covariables in a linear model.  
 
