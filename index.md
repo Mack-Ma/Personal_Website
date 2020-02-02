@@ -7,7 +7,7 @@ Hey, what's up! I'm Tianye Ma (Mack), currently a visiting scholar in Colorado S
 
 This has to be one of the best papers I've ever read.  
 Everyone should read this!! :)  
-![](https://github.com/Mack-Ma/Tianye/raw/master/Pic/CF&BS_CoolPerception_BBS.jpg)  
+![](https://github.com/Mack-Ma/Tianye/raw/master/Pic/CF&BS_CoolPerception_BBS.png)  
 
 ## About Adding Covariables
 Hey! Here's my understanding towards model assessment and adding covariables in a linear model.  
