@@ -1,5 +1,5 @@
 # About Me
-Hey, what's up! I'm Tianye (Mack) Ma, currently a Ph.D. Candidate at UC Riverside. I'm mentored by Weiwei Dr. Zhang ([memory.ucr.edu](memory.ucr.edu)). Although cognitive science is my principal area of interest, I actually have a broad interest in all kinds of new things. Please feel free to contact me by e-mail (mack_ma2018@outlook.com).  
+Hey, what's up! I'm Tianye (Mack) Ma, currently a Ph.D. Candidate at UC Riverside. I'm mentored by Weiwei Dr. Zhang ([The CONPAM Lab](http://memory.ucr.edu)). Although cognitive science is my principal area of interest, I actually have a broad interest in all kinds of new things. Please feel free to contact me by e-mail (mack_ma2018@outlook.com).  
 
 # My Posts
 
